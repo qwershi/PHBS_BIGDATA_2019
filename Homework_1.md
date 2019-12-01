@@ -1,6 +1,7 @@
 # Spread Detection on China's Stock Market Capitalization Based on Big Data Analysis
 
-##Xihang Yu 1801212965
+## Xihang Yu 
+## 1801212965
 
 ## Overview
 
