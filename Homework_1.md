@@ -57,11 +57,11 @@ The historical daily data in `3NF` can be shown as follow:
 
 The factors can be generated from the weighted-average `alpha101` factor in each constituent stock. The factors can also be generated from sentiment analysis.
 
-$$N = 101$$
+N = 101
 
 The total amount of data should be:
 
-$$2(futures)×101(factors)×250(days/year)×3(years) = 151500$$
+2(futures)×101(factors)×250(days/year)×3(years) = 151500
 
 The case meets the 3Vs' properties.
 
